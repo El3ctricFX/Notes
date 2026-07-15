@@ -1,0 +1,1 @@
+This is just something that helps me remember what i do throughout the day for my journals, and the only reason its posted is so that i can install it as a webapp and not have to open a file everytime
